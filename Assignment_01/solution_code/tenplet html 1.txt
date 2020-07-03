@@ -20,7 +20,7 @@
             
                     I have a strong passion for the creativity and discipline that goes into front-end development. Keeping in mind scalability and clean code that is maintainable and readable.
                     
-                    Iâ€™ve worked with companies of all shapes and sizes, so contact me if youâ€™d like to work together on your next project.
+                    I’ve worked with companies of all shapes and sizes, so contact me if you’d like to work together on your next project.
                     
                     In my free time, I enjoy being outdoors, listening to music, traveling and experiencing new and exciting adventures.
             </p>
@@ -39,7 +39,7 @@
          <p>
             I am sajib, My Date of Birth - 01.01.1986, I am from Chittagong  as wel as My birth place was also in Chittagong. here i going to explain my IT experties -
             I already learned HTML & CSS, JAVASCRIPT &  REACT.JS, BOOTSTRAP & SAAS, WORDPRESS DEVELOPMENT &  CUSTOMIZATION, PHP &  LARAVEL.  <br>
-            I will make a clean, unique and professional looking website. My design must be responsive in all devices, pixel perfect, w3c valid code, clean coding and seo friendly. Iâ€™ve helped so many organizations improve their online presence and hope I can help you to make an awesome website for your business.
+            I will make a clean, unique and professional looking website. My design must be responsive in all devices, pixel perfect, w3c valid code, clean coding and seo friendly. I’ve helped so many organizations improve their online presence and hope I can help you to make an awesome website for your business.
              I can provide the best quality services.
          </p>
          <a class="link-button " target="_blank"   href="#">DOWNLOAD  CV</a>
